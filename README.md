@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 公众号：@普通Gopher
+![](qrcode_for_gh_fe481e6d7c63_344.jpg)
